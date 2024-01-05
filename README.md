@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @edgibbs104
-- 👀 I’m interested in all things security related and sailing
-- 🌱 I’m currently learning python. It's a daily struggle.
+- 👀 I’m interested in all things security-related and also sailing
+- 🌱 I’m continuously learning Python. It's a daily struggle.
 - 💞️ I’m looking to collaborate on big data
 - 📫 How to reach me?  Depends on how resourceful you are.
 
